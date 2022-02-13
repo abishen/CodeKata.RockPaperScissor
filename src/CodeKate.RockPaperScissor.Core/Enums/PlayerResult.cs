@@ -1,6 +1,6 @@
 using System;
 namespace CodeKate.RockPaperScissor.Core.Enums;
-public enum Result
+public enum PlayerResult
 {
     Win,
     Lose,
